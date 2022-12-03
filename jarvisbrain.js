@@ -44,7 +44,7 @@ recognition.onresult = function(event){
 
    // jarvis command reply's
     if(transcript.includes("jarvis")){
-        readOut("hello sir");
+        readOut("hello Akshay sir");
       //debugger  //console.log("hello sir");
 
     }
